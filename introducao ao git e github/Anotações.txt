@@ -1,0 +1,10 @@
+Link para download do Git: https://git-scm.com/download/win
+
+O GitBash é um terminal extendido para otimizar o uso do Git.
+
+Criar primeiro uma pasta onde irá salvar o arquivo do projeto do GitHub e depois abrir o GitBash dentro dela e executar os seguintes comandos:
+git clone (colar o endereço do projeto que foi copiado do seu repositório)
+cd (nome da pasta que está o arquivo .git)
+git add .  (adiciona todos os arquivos no controle de versão local)
+git commit -m "Inclusão das anotações do curso de Git/GitHub"
+git push origin main  (envia todos os commits realizados para a nuvem)
